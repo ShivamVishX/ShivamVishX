@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React-native**
 
-- 📫 How to reach me **opshivam294@gmail.com**
+- 📫 How to reach me **shivamvkv7474@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
